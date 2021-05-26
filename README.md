@@ -6,7 +6,7 @@ A vue application sending/fetching data to/from a laravel api
 
 #### Installing dependencies
 
-Inside the *laravel-api*'s folder:
+Enter the *laravel-api*'s folder by using:
 > cd laravel-api
 
 Make a copy of `.env.example` renaming it to `.env`
